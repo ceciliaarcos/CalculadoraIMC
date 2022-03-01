@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="msgNeedHeight">Te falta por rellenar <b>Altura</b></string>
+    <string name="msgNeedWeight">Te falta por rellenar <b>Peso</b></string>
+    <string name="msgAll">Los campos <b>Peso</b> y <b>Altura</b> no deben estar vacios para realizar el cálculo</string>
+    <string name="msgBajo">Peso inferior al normal</string>
+    <string name="msgBien">Normal</string>
+    <string name="msgSobrepeso">Sobrepeso</string>
+    <string name="msgObeso">Obesidad</string>
+    <string name="msgNoZero">No debes de poner 0!</string>
+    <string name="msgNoPoint">No debe empezar con un punto. Ponga un número.</string>
+</resources>
